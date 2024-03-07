@@ -1,13 +1,13 @@
 # Introduction of Blockchain
 ## History and Evolution of Blockchain
 ### Early Foundations (1990s)
-In the early 1990s, Stuart Haber and W. Scott Stornetta proposed a secure chain of blocks to timestamp digital documents, laying the groundwork for blockchain. Their vision aimed at preventing tampering and backdating, offering a glimpse into the future of digital trust.
+In the early 1990s, _Stuart Haber_ and _W. Scott Stornetta_ proposed a secure chain of blocks to timestamp digital documents, laying the groundwork for blockchain. Their vision **aimed at preventing tampering and backdating**, offering a glimpse into the future of digital trust.
 
 ### The Bitcoin Revolution (2008-2009)
-Satoshi Nakamoto's Bitcoin, born in 2008 amidst the global financial crisis, marked the true beginning of blockchain technology. Nakamoto envisioned a decentralized monetary system, and with the mining of the "Genesis Block" in January 2009, Bitcoin became the first practical implementation of blockchain, revolutionizing transaction validation through distributed ledger technology.
+_Satoshi Nakamoto's_ Bitcoin, born in 2008 amidst the global financial crisis, marked the true beginning of blockchain technology. Nakamoto envisioned a decentralized monetary system, and with the mining of the "Genesis Block" in January 2009, **Bitcoin became the first practical implementation of blockchain**, revolutionizing transaction validation through distributed ledger technology.
 
 ### Beyond Bitcoin - The Expansion of Blockchain (2010-2017)
-Post-2009, blockchain's potential extended beyond cryptocurrencies. Developers explored decentralized applications (DApps), and Ethereum, introduced in 2015, played a pivotal role. Ethereum brought smart contracts into the mix, enabling more complex and automated interactions, transforming blockchain from a financial tool to a versatile platform.
+Post-2009, blockchain's potential extended beyond cryptocurrencies. Developers explored decentralized applications (DApps), and Ethereum, introduced in 2015, played a pivotal role. **Ethereum brought smart contracts** into the mix, enabling more complex and automated interactions, transforming blockchain from a financial tool to a versatile platform.
 
 ### Maturation and Diversification (2018-Present)
 Recent years have witnessed the maturation of blockchain technology. New platforms emerged with specific focuses like scalability and security. Major industries adopted blockchain for transparency and efficiency. Issues such as scalability (Bitcoin's Lightning Network), sustainability (energy concerns in Proof of Work models), and regulatory acceptance have sparked debates and research. Blockchain has evolved into a multifaceted technology influencing various sectors beyond finance.
