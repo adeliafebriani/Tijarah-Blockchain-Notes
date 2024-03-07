@@ -1,5 +1,4 @@
 # Blockchain
-## Cryptocurrency
 ### Benefits of cryptocurrency
 * cryptocurrencies are immune to counterfeiting
 * don't require a central authority
