@@ -10,30 +10,32 @@ _Satoshi Nakamoto's_ Bitcoin, born in 2008 amidst the global financial crisis, m
 Post-2009, blockchain's potential extended beyond cryptocurrencies. Developers explored decentralized applications (DApps), and Ethereum, introduced in 2015, played a pivotal role. **Ethereum brought smart contracts** into the mix, enabling more complex and automated interactions, transforming blockchain from a financial tool to a versatile platform.
 
 ### Maturation and Diversification (2018-Present)
-Recent years have witnessed the maturation of blockchain technology. New platforms emerged with specific focuses like scalability and security. Major industries adopted blockchain for transparency and efficiency. Issues such as scalability (Bitcoin's Lightning Network), sustainability (energy concerns in Proof of Work models), and regulatory acceptance have sparked debates and research. Blockchain has evolved into a multifaceted technology influencing various sectors beyond finance.
+Recent years have witnessed the maturation of blockchain technology. New platforms **emerged with specific focuses like scalability and security**. Major industries adopted blockchain for transparency and efficiency. Issues such as scalability (Bitcoin's Lightning Network), sustainability (energy concerns in Proof of Work models), and regulatory acceptance have sparked debates and research. Blockchain has evolved into a multifaceted technology influencing various sectors beyond finance.
 
 
 
 ## The Need for Web3 and How It Differs from Web2
-### The Emergence of Web1
+### The Emergence of Web1 (1944)
 * The initial iteration, consisted of static websites serving as information repositories.
 * Create HTML and CSS with no interaction.
 
-### The Emergence of Web2
+### The Emergence of Web2 (2004)
 * Brought interactive experiences, social media, and user-generated content but centralized control in the hands of major companies, raising concerns about privacy and data ownership.
-* Create with Database, Javascript, HTML, CSS and Backhanded Node.
 * User interaction like CRUD - CREATE, READ, UPDATE and DELETE.
+* Create with Database, Javascript, HTML, CSS3, and Backhanded Node.
+* Example: YouTube, Facebook, Wikipedia
 
-### The Emergence of Web3
+### The Emergence of Web3 (now)
 * Web3 prioritizing decentralization, openness, and user empowerment.
+* Web3 has decentralized, trustful and permissionless, AI and machine learning, and connectivity and ubiquity.
 * Web3 enables peer-to-peer interactions without intermediaries powered by blockchain, offering solutions to the centralization issues of Web2.
 * Create with Database, Javascript, HTML, CSS, Backhanded Node, and API.
 
 ### Key Differences Between Web2 and Web3
 * Decentralization vs. Centralization: Web3 operates on decentralized networks, unlike Web2's centralized services controlled by corporations.
-*  Data Ownership and Privacy: Web3 emphasizes user control and ownership of personal data, using blockchain for secure data management.
-*  Interoperability and Open Standards: Web3 fosters a more interconnected web through open protocols, unlike the siloed nature of Web2 applications.
-*  Tokenization and Digital Assets: Web3 introduces cryptocurrencies and NFTs, enabling the creation, ownership, and trading of digital assets, revolutionizing online economic models.
+* Data Ownership and Privacy: Web3 emphasizes user control and ownership of personal data, using blockchain for secure data management.
+* Interoperability and Open Standards: Web3 fosters a more interconnected web through open protocols, unlike the siloed nature of Web2 applications.
+* Tokenization and Digital Assets: Web3 introduces cryptocurrencies and NFTs, enabling the creation, ownership, and trading of digital assets, and revolutionizing online economic models.
 
 ### The Need for Web3
 Web3 responds to demands for greater control over personal data, digital ownership, and a reduction in the power of centralized authorities. By leveraging blockchain, it aims to create a more democratic, secure, and transparent internet where users have enhanced autonomy.
