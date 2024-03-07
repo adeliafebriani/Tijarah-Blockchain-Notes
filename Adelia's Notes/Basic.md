@@ -32,7 +32,7 @@
 
 ### Blockchain Structure (database of immutable records)
 1. Header
-  * number of blocks
+..* number of blocks
   * hash (previous)
   * timestamp
   * nonce (random number)
