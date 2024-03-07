@@ -32,15 +32,15 @@
 
 ### Blockchain Structure (database of immutable records)
 1. Header
-..* number of blocks
-  * hash (previous)
-  * timestamp
-  * nonce (random number)
-  * hash (alpha value to identify block)
+   * number of blocks
+   * hash (previous)
+   * timestamp
+   * nonce (random number)
+   * hash (alpha value to identify block)
 2. Transaction details
-  * sender
-  * receiver
-  * amount
+   * sender
+   * receiver
+   * amount
 
 ### Blockchain Features
 * SHA256 encryption
