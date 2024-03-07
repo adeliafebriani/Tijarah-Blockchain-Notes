@@ -101,27 +101,11 @@ Web3 faces challenges in **scalability**, **user experience**, and **regulatory 
 
 
 ## Key Differences Between Blockchain and Traditional Databases
-### Structure and Data Organization
-* Blockchain: Organized as a chain of blocks, linked chronologically, and employing cryptographic principles for immutability.
-* Traditional Databases: Structured in tables and rows with relational models, allowing easy modification by administrators.
-
-### Decentralization vs. Centralization
-* Blockchain: Inherently decentralized, distributing the ledger across multiple nodes, preventing single-entity control.
-* Traditional Databases: Centralized, hosted on servers controlled by a central authority, posing risks of single points of failure.
-
-### Immutability
-* Blockchain: Records are nearly impossible to alter, ensuring data integrity and trust.
-* Traditional Databases: Allows for data modification, updating, or deletion by authorized users, raising concerns about tampering.
-
-### Transparency and Anonymity
-* Blockchain: Offers transparency in public blockchains but maintains pseudonymous identities.
-* Traditional Databases: Privacy controls restrict data visibility to authorized users with known identities.
-
-### Consensus Mechanisms
-* Blockchain: Utilizes consensus mechanisms like Proof of Work or Proof of Stake for validating transactions without a central authority.
-* Traditional Databases: Rely on CRUD operations managed by administrators without network-wide consensus.
-
-### Use Cases and Efficiency
-* Blockchain: Suited for scenarios requiring decentralized control, data immutability, and transparency, e.g., cryptocurrency transactions and supply chain tracking.
-* Traditional Databases: Efficient for high-speed transactions and data processing tasks in business environments, where centralized control and data mutability are essential.
-
+||Blockchain|Traditional Databases|
+|---|---|---|
+|Structure and Data Organization|Organized as a chain of blocks, linked chronologically, and employing cryptographic principles for immutability|Structured in tables and rows with relational models, allowing easy modification by administrators|
+|Decentralization vs. Centralization|Inherently decentralized, distributing the ledger across multiple nodes, preventing single-entity control|Centralized, hosted on servers controlled by a central authority, posing risks of single points of failure|
+|Immutability|Records are nearly impossible to alter, ensuring data integrity and trust|Allows for data modification, updating, or deletion by authorized users, raising concerns about tampering|
+|Transparency and Anonymity|Offers transparency in public blockchains but maintains pseudonymous identities|Privacy controls restrict data visibility to authorized users with known identities|
+|Consensus Mechanisms|Utilizes consensus mechanisms like Proof of Work or Proof of Stake for validating transactions without a central authority|Rely on CRUD operations managed by administrators without network-wide consensus|
+|Use Cases and Efficiency|Suited for scenarios requiring decentralized control, data immutability, and transparency, e.g., cryptocurrency transactions and supply chain tracking|Efficient for high-speed transactions and data processing tasks in business environments, where centralized control and data mutability are essential|
