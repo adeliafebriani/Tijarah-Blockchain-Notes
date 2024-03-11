@@ -1,12 +1,13 @@
 # Public, Private & Consortium Blockchains
 
-![Types-of-Blockchain-Technology](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/0479180b-c2c6-4816-ab8d-3321deefe18e)
+![Four-types-of-blockchain-technology](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/134608cd-9174-4d52-9744-522ba0b17848)
 
-### Public Blockchains: visible to all 
+### Public Blockchains
 1. Definition: A decentralized network that anyone can join and participate in. Open, making data **fully accessible** to the public.
 2. Characteristics:
    * Transparency
    * Immutability
+   * Transaction are visible to all
    * Once recorded, the data cannot be altered
    * Proof of Work (PoW) or Proof of Stake (PoS) to validate transactions
 3. Example:
@@ -15,10 +16,11 @@
    * MaalChain
 4. Use Cases: Ideal for applications that require transparency and security like cryptocurrencies
 
-### Private Blockchains: visible to authorized participants
+### Private Blockchains
 1. Definition: Permission networks where the access is **controlled by an organization or a consortium of organizations**. They are not open to the public.
 2. Characteristics:
    * Privacy is a priority
+   * Transaction are visible to authorized participants
    * The rules of the network are set by the controlling organization(s)
    * Use more efficient consensus mechanisms since the number of participating nodes is smaller and more trusted.
 4. Examples:
