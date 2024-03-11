@@ -1,5 +1,5 @@
 # Blockchain Architecture
-## What is blockchain architecture?
+### What is blockchain architecture?
 * A complex, innovative structure that allows for **secure, transparent, and decentralized digital transactions**.
 * Key components, such as **consensus mechanisms and nodes**, play vital roles in its functionality and reliability.
 * Data is stored, verified, and transferred.
