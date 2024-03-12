@@ -37,6 +37,8 @@
 4. Examples:
    * Energy Web Foundation
    * Quorum
+   * R3 Corda
+   * Hyperledger Fabric
 6. Use Cases: Ideal for industries where multiple entities need to collaborate securely without fully trusting each other, such as in the banking sector or healthcare records.
 
 ### Differentiate Public, Private & Consortium
