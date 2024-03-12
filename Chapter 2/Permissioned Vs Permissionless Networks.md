@@ -8,9 +8,10 @@
    * Anyone can join and participate without  permission
    * Networks epitomize the original ethos of blockchain technology, emphasizing decentralization and inclusivity.
 2. Characteristics:
-   * _Open Participation_: ***anonymously*** or pseudonymously participate (mining, validating transactions, or using services).
+   * _Open Participation_: ***anonymously*** or pseudonymously participate (mining, validating transactions, or using services). It does not ask users for id or personal information.
    * _Decentralization_: ***no central authority*** that controls, making it resilient to censorship and central points of failure.
    * _Transparency_: ***transparent and verifiable by all*** network participants.
+   * _Tokens_: tokens or digital assets, either increasing in value or decreasing in value over time.
 3. Examples:
    * Bitcoin
    * Ethereum
