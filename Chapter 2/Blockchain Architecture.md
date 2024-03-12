@@ -26,10 +26,10 @@
 1. Ledger Characteristics: **immutable**, meaning once data is entered, it cannot be altered retroactively. This immutability is safeguarded by the interlinking of blocks through cryptographic hashes.
 2. Distribution: distributed across all nodes in the network. Each node maintains an **identical copy, ensuring transparency** and making the system **resistant to data loss or manipulation**.
 
-### Smart Contracts
-Ethereum, smart contracts automate agreements and transactions based on predefined rules, executed without human intervention.
-
-### Public vs. Private Blockchains
-* Public == open to anyone
-* Private == restrict access (more controlled environment, preferred by enterprises)
+> [!IMPORTANT]
+> ### Smart Contract
+> Ethereum, smart contracts automate agreements and transactions based on predefined rules, executed without human intervention.
+> ### Public vs. Private Blockchains
+> * Public == open to anyone
+> * Private == restrict access (more controlled environment, preferred by enterprises)
 
