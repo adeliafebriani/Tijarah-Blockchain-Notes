@@ -20,9 +20,23 @@
 
 ### Applications of DLT
 1. Cryptocurrencies like Bitcoin enable the secure and transparent recording of cryptocurrency transactions.
-2. Supply Chain Management: DLT can enhance transparency and traceability in supply chains, allowing all parties to track the movement of goods and ensure their authenticity.
-3. Financial Services: DLT can streamline processes, reduce fraud, and improve compliance through secure and immutable record-keeping.
-4. Identity Verification: DLT can provide a secure and unforgeable way of managing digital identities, reducing the risk of identity theft and fraud.
+2. Supply Chain Management:
+   * can enhance transparency
+   * traceability in supply chains
+   * allowing all parties to track the movement of goods
+   * ensure their authenticity.
+4. Financial Services:
+   * can streamline processes
+   * reduce fraud
+   * improve compliance through secure
+   * immutable record-keeping.
+6. Identity Verification:
+   * can provide a secure
+   * unforgeable way of managing digital identities
+   * reducing the risk of identity theft and fraud.
+
+### Pros and Disadvantages of DLT
+![Screenshot 2024-03-13 141039](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/e6c4bb30-53d0-4c23-bc9f-f34cf4704df9)
 
 ### Conclusion
-* DLT represents a significant shift in how data is stored and managed. Its potential extends far beyond cryptocurrencies, promising to revolutionize various industries by bringing enhanced security, transparency, and efficiency. As DLT continues to evolve, it's likely to become an increasingly integral part of the digital infrastructure in various sectors.
+DLT is revolutionizing industries beyond cryptocurrencies, offering enhanced security, transparency, and efficiency. It's poised to become integral to digital infrastructure as it continues to evolve.
