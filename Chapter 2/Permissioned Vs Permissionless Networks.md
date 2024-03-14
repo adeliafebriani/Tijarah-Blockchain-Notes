@@ -60,7 +60,7 @@
 |***Regulatory Compliance***: Easier adherence to regulatory requirements.|***Dependency on Participants***: Relies on the cooperation of predetermined participants.|
 |***Efficient Governance***: Streamlined decision-making processes.||
 
-### Difference between Permissionless & Permissioned Blockchain
+## Difference between Permissionless & Permissioned Blockchain
 |Permissionless|Permissioned|
 |:---:|:---:|
 |Anyone can access, create data, publish smart contracts, and run a node|Closed ecosystems (only preapproved entities can run nodes)|
