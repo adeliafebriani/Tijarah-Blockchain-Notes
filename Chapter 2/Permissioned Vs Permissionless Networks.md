@@ -4,25 +4,26 @@
 
 ## Permissionless Networks
 1. Definition:
+   * public and decentralize
    * Open and high decentralization
    * Anyone can join and participate without  permission
    * Networks epitomize the original ethos of blockchain technology, emphasizing decentralization and inclusivity.
-2. Characteristics:
-   * _Open Participation_: ***anonymously*** or pseudonymously participate (mining, validating transactions, or using services). It does not ask users for id or personal information.
+3. Characteristics:
+   * _Open Participation_: ***anonymously*** or pseudonymously participate (mining, validating transactions, or using services). It does not ask users for identification or personal information.
    * _Decentralization_: ***no central authority*** that controls, making it resilient to censorship and central points of failure.
    * _Transparency_: ***transparent and verifiable by all*** network participants.
    * _Tokens_: tokens or digital assets, either increasing in value or decreasing in value over time.
-3. Examples:
-   * Bitcoin
-   * Ethereum
-4. Use Cases:
+4. Examples:
+   * Bitcoin & Ethereum
+   * both are very decentralized, very secure, very slow, and open to anyone with a web connection
+5. Use Cases:
    * trust among participants is minimal
    * high degree of transparency and security
    * suitable for trustless interactions.
    * ideal for scenarios not requiring strict control.
    * like public cryptocurrencies
    * permissionless for scenarios without centralized control needs.
-5. Pros and Cons:
+6. Pros and Cons:
 
 |Pros|Cons|
 |---|---|
@@ -59,3 +60,14 @@
 |***Regulatory Compliance***: Easier adherence to regulatory requirements.|***Dependency on Participants***: Relies on the cooperation of predetermined participants.|
 |***Efficient Governance***: Streamlined decision-making processes.||
 
+### Difference between Permissionless & Permissioned Blockchain
+|Permissionless|Permissioned|
+|:---:|:---:|
+|Anyone can access, create data, publish smart contracts, and run a node|Closed ecosystems (only preapproved entities can run nodes)|
+|100% transparency|Decentralization and transparency vary|
+|High level of anonymity|No anonymity|
+|Mining is required|Mining is not required to validate transactions or execute smart contracts|
+|Monetary incentives to nodes (miners)|No tokens given to nodes as incentive|
+|Performance is slow|Performance is drastically increased|
+|Scaling is a massive challenge|Scaling is drastically increassed|
+|Enjoy freedom in decentralization|Enjoy freedom in configurational flexibility|
