@@ -4,7 +4,7 @@
 * Consensus mechanisms and nodes, play vital roles in its functionality and reliability.
 * Data is stored, verified, and transferred.
 * Its decentralized nature, coupled with robust consensus mechanisms and the distributed ledger system, provides a secure and transparent framework for various applications, from cryptocurrencies to supply chain management.
-* As technology evolves, so too will its architecture, adapting to new challenges and opportunities in the digital world.
+* As technology evolves, so will its architecture, adapting to new challenges and opportunities in the digital world.
 
 ### Nodes: The Foundation of Blockchain
 1. Node is any computing device (computer, laptop, server).
