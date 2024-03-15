@@ -4,7 +4,7 @@ Platform|Consensus Mechanism|Scalability|Programming Language|Use Cases
 :---|:---|:---|:---|:---
 Ethereum|PoW (Transitioning to PoS)|Working on Ethereum 2.0 for improved scalability|Solidity|General-purpose blockchain, decentralized applications
 Quorum (ConsenSys)|Raft or Istanbul BFT|Focus on privacy and performance|Solidity|Enterprise solutions, finance
-Hyperledger Fabric|Pluggable, supports various mechanisms|Modular architecture for scalability|Go, Java, Node.js|Supply chain, finance, enterprise solutions
+Hyperledger Fabric|Pluggable and supports various mechanisms|Modular architecture for scalability|Go, Java, Node.js|Supply chain, finance, enterprise solutions
 Corda|Notary-based consensus|Designed for privacy and scalability|Kotlin, Java|Financial services, legal, supply chain
 IBM Blockchain|Supports multiple mechanisms|Modular for different business needs|Go, Java|Supply chain, finance,healthcare
 Bitcoin|PoW|Limited scalability, slower transaction processing|Bitcoin Script|Peer-to-peer digital currency
@@ -24,7 +24,7 @@ Launched in 2015 by Vitalik Buterin and developers, Ethereum facilitates decentr
 Originally on PoW, Ethereum is transitioning to PoS with Ethereum 2.0 to enhance scalability, energy efficiency, and security.
 
 #### Ethereum 2.0 Features
-Ethereum 2.0, or Eth2/Serenity, addresses scalability with PoS, shard chains, and the Beacon Chain, aiming to increase transaction throughput, reduce fees, and energy consumption.
+Ethereum 2.0, or Eth2/Serenity, addresses scalability with PoS, shard chains, and the Beacon Chain to increase transaction throughput, and reduce fees, and energy consumption.
 
 #### Solidity
 Ethereum's primary smart contract programming language, Solidity, resembles JavaScript and C++, enabling developers to define rules and logic for self-executing agreements on the blockchain.
@@ -62,7 +62,7 @@ Bitcoin serves primarily as a peer-to-peer digital currency, facilitating value 
 MaalChain is a blockchain project emphasizing decentralized applications (dApps) and high transaction throughput, aiming to facilitate various applications, particularly focusing on identity-based private dApps.
 
 #### High Transaction Throughput (TPS)
-MaalChain is capable of handling up to 4000 transactions per second (TPS), crucial for applications requiring fast transaction processing and scalability.
+MaalChain can handle up to 4000 transactions per second (TPS), which is crucial for applications requiring fast transaction processing and scalability.
 
 #### Maal Validator DAO (Proof of Authority)
 Operating on a Proof of Authority (PoA) consensus mechanism, MaalChain validates transactions through approved validators, potentially leading to faster confirmations and increased scalability compared to PoW systems.
@@ -74,5 +74,5 @@ MaalChain is developed using Go, known for its efficiency and scalability, makin
 MaalChain supports the development and deployment of dApps, allowing developers to leverage its high TPS and identity-based features for various applications.
 
 #### Identity-based Private dApps
-MaalChain's unique feature is its focus on identity-based private dApps, offering tools and mechanisms for applications prioritizing user identity management and privacy. These dApps may include features such as user authentication, access control, and data encryption to enhance user privacy and security.
+MaalChain's unique feature focuses on identity-based private dApps, offering tools and mechanisms for applications prioritizing user identity management and privacy. These dApps may include features such as user authentication, access control, and data encryption to enhance user privacy and security.
 
