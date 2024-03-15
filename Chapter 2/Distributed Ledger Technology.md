@@ -5,6 +5,8 @@
 * Consensus mechanism: every node will conclude, but they will come up with the voting and majority of agreed conclusions.
 * Enables decentralized, secure, and tamper-resistant transaction recording.
 
+![dlt](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/b4fec9e3-05ea-4180-a7c4-c4146c035cd0)
+
 ### Characteristics
 1. Decentralization: DLTs distribute the control among all participants in the network.
    * enhances security
