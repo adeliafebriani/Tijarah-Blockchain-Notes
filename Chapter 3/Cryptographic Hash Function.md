@@ -14,7 +14,7 @@ An algorithm that takes (input=message) and returns a fixed-size string of bytes
 2. Quick Computation: The hash function can process any size of the data quickly and return a hash value in a consistent time frame.
 
 > [!Note]
-> Most computers can compute million/second
+> Most computers can compute million/second hash
 
 4. Pre-image Resistance: Given a hash value, it should be computationally infeasible to reconstruct the original input data (also known as one-way property).
 5. Small Changes Lead to Significant Differences: A tiny change in input data will produce an entirely different hash (avalanche effect).
