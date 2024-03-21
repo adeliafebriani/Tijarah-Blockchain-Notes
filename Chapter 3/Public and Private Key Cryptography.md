@@ -2,7 +2,7 @@
 ### Basic Principles
 1. Key Pair: public key=shared openly, private key=kept secret.
 2. Encryption and Decryption: Messages encrypted=public key, decrypted=private key, and vice versa.
-3. Digital Signatures: Anyone using the corresponding public key can verify data signed with the private key.
+3. Digital Signatures: Anyone using a public key can verify data signed with the private key.
 
 ### Technical Details
 1. Key Generation:
@@ -12,10 +12,27 @@
    * Data encryption involves mathematical algorithms that use the public key to transform data into a format that can only be reversed (decrypted) with the corresponding private key.
 5. Signature Creation and Verification:
    * A digital signature is created by processing the data with a private key, and its authenticity can be verified using the corresponding public key.
+  
+### Difference between Private Key and Public Key
+|Private|Public key|
+|:---:|:---:|
+|+Faster|-Slower|
+|Same key (secret key) used to encrypt and decrypt the message|Two keys which one key is used for encryption, and the other is used for decryption|
+|The key is kept a secret|One of the two keys is kept a secret|
+|Symmetrical (one key)|Asymmetrical (private & public)|
+|+used for large amounts of text|-used for only short messages|
+|-the possibility of losing the key that renders the systems void|+less possibility of key loss, as the key is held publicly|
+|Can be shared between two parties|Can be used by anyone|
+|Performance testing checks the reliability, scalability, and speed of the system.|Load testing checks the sustainability of the system.|
+|The private key is used in algorithms such as AES 128, AES 192 and AES 256.|The public key is used in algorithms such as RSA, DSA, etc.|
+|The private key is kept secret.|The public key is widely distributed.|
+|It is used to protect disk drives and other data storage devices.|It is used to secure web sessions and emails.|
+|The recipient’s private key decrypts the message.|The recipient’s public key encrypts the message.|
+|If the private key is the locking key, then the system can be used to verify documents sent by the holder of the private key.|If the public key is the locking key, then it can be used to send private communication.|
 
 ### Public Key Infrastructure (PKI)
 * PKI is a framework of roles, policies, hardware, software, and procedures to create, manage, distribute, use, store, and revoke digital certificates. It plays a crucial role in managing public key encryption.
-* In the context of PKI, a digital certificate, issued by a Certificate Authority (CA), binds a public key to an entity (like an individual or organization), ensuring the public key's authenticity.
+* A digital certificate, issued by a Certificate Authority (CA), binds a public key to an entity (like an individual or organization), ensuring the public key's authenticity.
 
 ### Applications in Blockchain
 * Transaction Verification: A user's public key serves as their address, while the private key is used to sign transactions. This ensures that only the owner of the private key can authorize transactions from their account.
