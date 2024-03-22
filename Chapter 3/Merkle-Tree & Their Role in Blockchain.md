@@ -36,7 +36,7 @@ A Merkle tree is a binary tree of hashes:
 ### Technical Considerations
 
 1. Hash Function
-   * The choice of the hash function is critical for the security of the Merkle tree.
+   * The choice is critical for the security of the Merkle tree.
    * Functions like SHA-256 (used in Bitcoin) provide a good balance of speed and security.
 
 2. Tree Structure
