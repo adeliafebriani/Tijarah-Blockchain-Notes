@@ -1,5 +1,7 @@
 # Cryptographic Hash Function
 ### What is  a cryptographic hash function?
+![block](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/fb443c60-7d58-498e-ae29-dd4737e88743)
+
 Foundational element in the realm of digital security and blockchain technology. A special class of hash function designed to secure and manage data integrity in various cryptographic applications.
 
 ### Definition
