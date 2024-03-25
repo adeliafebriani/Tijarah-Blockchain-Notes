@@ -32,7 +32,7 @@ A hash function is designed to secure and manage data integrity.
 
 ![Screenshot 2024-03-25 154639](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/29cf1c70-e157-4394-97ef-c789cc28c5cc)
 
-6. Collision Resistance (strong collision resistance): It is computationally infeasible to find any two distinct inputs which hash to the same output, nearly impossible and crucial for data integrity.
+6. Collision Resistance (strong collision resistance): It is computationally infeasible to find any two different inputs hash to the same output, nearly impossible and crucial for data integrity.
 
 ![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/00731330-2863-4b67-a166-d4dd7b4a30af)
 
