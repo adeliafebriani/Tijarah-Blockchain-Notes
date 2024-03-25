@@ -1,26 +1,32 @@
 # Cryptographic Hash Function
 ### What is  a cryptographic hash function?
+![cryptographic-hash-functions-means](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/3b8c358d-2322-4f48-9b61-902f50932048)
+
+An algorithm that takes (input=message) and returns a fixed-size string of bytes (output=hash/digest) that represent the input data.
+
 ![block](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/fb443c60-7d58-498e-ae29-dd4737e88743)
 
-Foundational element in the realm of digital security and blockchain technology. A special class of hash function designed to secure and manage data integrity in various cryptographic applications.
-
-### Definition
-An algorithm that takes (input=message) and returns a fixed-size string of bytes (output=hash/digest) that represent the input data.
+A hash function is designed to secure and manage data integrity.
 
 ### Core Properties
 ![Screenshot 2024-03-19 133147](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/431a2332-7ead-49f2-9a99-775c07b5b8eb)
 
+1. Deterministic: The same input will always produce the same hash output.
+
 ![Screenshot 2024-03-19 133336](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/22c4a349-991c-4896-92d9-75abb87a8c7f)
 
-1. Deterministic: The same input will always produce the same hash output.
 2. Quick Computation: The hash function can process any size of the data quickly and return a hash value in a consistent time frame.
 
 > [!Note]
 > Most computers can compute million/second hash
 
-4. Pre-image Resistance: Given a hash value, it should be computationally infeasible to reconstruct the original input data (also known as one-way property).
-5. Small Changes Lead to Significant Differences: A tiny change in input data will produce an entirely different hash (avalanche effect).
-6. Collision Resistance: Finding two different inputs that produce the same hash output should be challenging.
+3. Pre-image Resistance: Given a hash value, it should be computationally infeasible to reconstruct the original input data (also known as one-way property).
+
+4. Small Changes Lead to Significant Differences: A tiny change in input data will produce an entirely different hash (avalanche effect).
+
+![single-character-changes-hash-algorithm](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/2ac38c04-0a9e-44d7-aa71-3c8c4cb92aa6)
+
+5. Collision Resistance: Finding two different inputs that produce the same hash output should be challenging.
 
 ### Technical Details
 ![Screenshot 2024-03-19 133028](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/5a473b38-83f7-4127-b436-1f381aa8e72e)
