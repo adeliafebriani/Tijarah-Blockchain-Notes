@@ -20,13 +20,22 @@ A hash function is designed to secure and manage data integrity.
 > [!Note]
 > Most computers can compute million/second hash
 
-3. Pre-image Resistance: Given a hash value, it should be computationally infeasible to reconstruct the original input data (also known as one-way property).
-
-4. Small Changes Lead to Significant Differences: A tiny change in input data will produce an entirely different hash (avalanche effect).
+3. Small Changes Lead to Significant Differences: A tiny change in input data will produce an entirely different hash (avalanche effect).
 
 ![single-character-changes-hash-algorithm](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/2ac38c04-0a9e-44d7-aa71-3c8c4cb92aa6)
 
-5. Collision Resistance: Finding two different inputs that produce the same hash output should be challenging.
+4. Pre-image Resistance (one way): It is computationally unfeasible to reverse-engineer the original input from its hash output and infeasible to reconstruct the original input data. This property is important for securing data and making it tamper-evident.
+
+![Screenshot 2024-03-25 154617](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/3bdbe5bc-f6d3-48e4-87b2-e97f38dd8e09)
+   
+5. Second Preimage Resistance (weak collision resistance): It is computationally infeasible to find any second input which has the same output as any specified input.
+
+![Screenshot 2024-03-25 154639](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/29cf1c70-e157-4394-97ef-c789cc28c5cc)
+
+6. Collision Resistance (strong collision resistance): It is computationally infeasible to find any two distinct inputs which hash to the same output, nearly impossible and crucial for data integrity.
+
+![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/00731330-2863-4b67-a166-d4dd7b4a30af)
+
 
 ### Technical Details
 ![Screenshot 2024-03-19 133028](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/5a473b38-83f7-4127-b436-1f381aa8e72e)
@@ -45,12 +54,11 @@ A hash function is designed to secure and manage data integrity.
    * Each block has a unique hash- created from the block's data (including the previous block's hash)
    * Any alteration in the block data changes its hash, affecting the entire chain
    * Ensuring data integrity
-3. Mining and Proof of Work
-   * Cryptographic hashes are central to mining in Proof of Work-based blockchains like Bitcoin. Miners must find a hash that is below a certain target, which requires computational work, thereby securing the network through energy and computational commitment.
-
-### Collision and Pre-image Resistance
-1. Collision Resistance: A good cryptographic hash function makes finding two different inputs that produce the same output nearly impossible. This property is crucial for data integrity.
-2. Pre-image Resistance: It is computationally unfeasible to reverse-engineer the original input from its hash output. This property is important for securing data and making it tamper-evident.
+2. Mining and Proof of Work
+   * Cryptographic hashes are central to mining in Proof of Work-based blockchains like Bitcoin.
+   * Miners must find a hash that is below a certain target, which requires computational work, thereby securing the network through energy and computational commitment.
 
 > [!NOTE]
-> Cryptographic hash functions are vital in ensuring the security and integrity of data in various digital applications, notably in blockchain technology. Their ability to provide a secure, one-way, and collision-resistant method of encoding information is fundamental in maintaining the trustworthiness and reliability of blockchain networks. Understanding these technical aspects is essential for appreciating how cryptographic hash functions underpin the security of modern digital transactions and data management systems.
+> * Cryptographic hash functions are vital in ensuring the security and integrity of data in various digital applications.
+> * Their ability to provide a secure, one-way, and collision-resistant method of encoding information is fundamental.
+> * Appreciating how cryptographic hash functions underpin the security of modern digital transactions and data management systems.
