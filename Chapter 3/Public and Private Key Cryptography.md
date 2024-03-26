@@ -43,6 +43,8 @@ ECC is a public-key cryptography technique that uses elliptic curves to generate
 * A digital certificate, issued by a Certificate Authority (CA), ensuring the public key's authenticity.
 
 #### Certificate Authority (CA)
+![ca](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/21aa193d-953f-4c55-bf26-280edf3d5758)
+
 * Responsible for issuing
 * Revoking
 * Distributed digital certificate
@@ -50,18 +52,18 @@ ECC is a public-key cryptography technique that uses elliptic curves to generate
 
 ### Applications in Blockchain
 1. Transaction Verification:
-  * A user's public key is their address, while the private key is used to sign transactions.
-  * Only the private key owner can authorize transactions from their account.
+   * A user's public key is their address, while the private key is used to sign transactions.
+   * Only the private key owner can authorize transactions from their account.
 2. Security and Anonymity:
-  * While the public key is visible to all participants in the blockchain network, the private key remains confidential, maintaining security and user anonymity.
+   * While the public key is visible to all participants in the blockchain network, the private key remains confidential, maintaining security and user anonymity.
 
 ### Security Considerations
 1. Key Management:
-  * The security of asymmetric cryptography heavily relies on how private keys are managed and stored.
-  * The system's security is at risk if a private key is compromised.
+   * The security of asymmetric cryptography heavily relies on how private keys are managed and stored.
+   * The system's security is at risk if a private key is compromised.
 2. Computational Power:
-  * The security of public and private key cryptography is based on the current limitations of computational power and algorithmic efficiency.
-  * It is essential to stay updated with cryptographic advancements to counteract potential future vulnerabilities, such as those posed by quantum computing.
+   * The security of public and private key cryptography is based on the current limitations of computational power and algorithmic efficiency.
+   * It is essential to stay updated with cryptographic advancements to counteract potential future vulnerabilities, such as those posed by quantum computing.
 
 > [!NOTE]
 > * Public and private key cryptography is a cornerstone of digital security.
