@@ -33,7 +33,7 @@
 2. Characteristics:
    * Multiple organizations manage the blockchain.
    * This approach allows for a higher level of governance, efficiency, and security compared to public blockchains.
-   * The consensus process is controlled by pre-selected nodes.
+   * Pre-selected nodes control the consensus process.
 4. Examples:
    * Energy Web Foundation
    * Quorum
@@ -45,7 +45,6 @@
 ![ppc table](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/5bf5dd17-a3d8-4b76-ac44-ede9f111b490)
 
 > [!IMPORTANT]
-> * Each type of blockchain serves different needs
-> * Public: maximum transparency where trust among participants is low.
-> * Private: efficiency and privacy, suitable for corporate environments.
-> * Consortium: both, balanced approach among multiple organizations. Depends on the specific requirements of privacy, trust, scalability, and control.
+> * Public: transparency, and trust are low.
+> * Private: privacy, suitable for corporate environments.
+> * Consortium: both, balanced approach among multiple organizations.
