@@ -57,8 +57,3 @@ A hash function is designed to secure and manage data integrity.
 2. Mining and Proof of Work
    * Cryptographic hashes are central to mining in Proof of Work-based blockchains like Bitcoin.
    * Miners must find a hash that is below a certain target, which requires computational work, thereby securing the network through energy and computational commitment.
-
-> [!NOTE]
-> * Cryptographic hash functions are vital in ensuring the security and integrity of data in various digital applications.
-> * Their ability to provide a secure, one-way, and collision-resistant method of encoding information is fundamental.
-> * Appreciating how cryptographic hash functions underpin the security of modern digital transactions and data management systems.
