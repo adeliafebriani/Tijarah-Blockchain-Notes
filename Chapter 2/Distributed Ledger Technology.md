@@ -18,7 +18,7 @@
    * Proof of Work
    * Proof of Stake
    * depending on the specific implementation. These mechanisms ensure that all participants agree on the state of the ledger.
-5. Security: The decentralized and immutable nature combined with cryptographic, makes it secure against tampering and fraud.
+5. Security: The decentralized and immutable nature combined with cryptography, makes it secure against tampering and fraud.
 
 ### Applications of DLT
 1. Cryptocurrencies like Bitcoin enable the secure and transparent recording of cryptocurrency transactions.
