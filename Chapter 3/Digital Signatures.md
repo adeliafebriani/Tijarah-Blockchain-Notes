@@ -13,7 +13,8 @@ A digital signature is a handwritten signature or a stamped seal but with far mo
 
 1. Creation of Digital Signatures:
    * A digital signature is created using a private key to 'sign' a transaction or a piece of data.
-   * When a user initiates a blockchain transaction (like sending cryptocurrency), they generate a digital signature using their private key. This process involves creating a hash of the transaction data and then encrypting the hash with the private key.
+   * When users initiate a blockchain transaction, they generate a digital signature using their private key.
+   * This process involves creating a hash of the transaction data and then encrypting the hash with the private key.
 2. Verification Process:
    * The verification of a digital signature is done using the signer’s public key.
    * When other participants in the blockchain network receive the transaction, they use the sender's public key to decrypt the signature. They independently compute the hash of the original transaction data. If this hash matches the decrypted hash from the signature, it confirms that the transaction is authentic and has not been tampered with.
@@ -28,7 +29,7 @@ A digital signature is a handwritten signature or a stamped seal but with far mo
 
 ### Applications in Blockchain
 1. Transaction Verification:
-   * Every transaction is signed by the sender’s private key and verified by the network, ensuring that the rightful owner of the digital assets initiates the transaction.
+   * Signed by the sender’s private key and verified by the network, ensuring that the rightful owner of the digital assets initiates the transaction.
 2. Smart Contracts:
    * Ethereum, digital signatures are used to execute smart contracts, ensuring that the contract is executed by the parties involved without repudiation.
 3. Identity Verification:
