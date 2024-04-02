@@ -41,8 +41,3 @@ A Merkle tree is a binary tree of hashes:
 
 2. Tree Structure
    * While binary trees are common, some implementations may use different structures (like a Patricia tree in Ethereum) for specific optimization purposes.
-
-> [!NOTE]
-> * provides an efficient means of summarizing and verifying large datasets, a necessity in the world of distributed ledger technologies.
-> * use in blockchain is a testament to the elegant solutions cryptography can offer to complex problems in data integrity and verification, making them an indispensable element in the secure and efficient operation of blockchain networks.
-
