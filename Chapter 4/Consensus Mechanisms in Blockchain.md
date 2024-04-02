@@ -48,7 +48,7 @@ IBFT provides quick and final consensus with high fault tolerance. it's particul
 ### Practical Byzantine Fault Tolerance (PBFT)
 PBFT was introduced to address the limitations of the traditional Byzantine Fault Tolerance in practical, real-world applications.
 
-#### How it Works:
+#### How it Works?
 
 * **Three-Phase Protocol**: PBFT operates in three phases - pre-prepare, prepare, and commit. This ensures that all nodes in the network agree on the new block's content.
 
@@ -56,8 +56,8 @@ PBFT was introduced to address the limitations of the traditional Byzantine Faul
 
 * **Fault Tolerance**: Like IBFT, PBFT can handle up to 1/3 of faulty nodes in the network.
 
-#### Advantages: 
+#### Advantages
 PBFT is efficient and offers a low-latency consensus mechanism without intensive computational requirements. It is ideal for networks where participants are partially trusted and a high transaction throughput is necessary.
 
-#### Use Cases: 
+#### Use Cases
 PBFT is commonly used in private or consortium blockchain networks, particularly where quick consensus and transaction finality are important.
