@@ -1,16 +1,18 @@
 # Proof of Work
-Proof of Work (PoW) is one of the original consensus mechanisms used in blockchain technology, known for its role in securing networks like Bitcoin. It's a process that ensures network security and consensus without the need for a centralized authority.
+![pow](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/4336b1d8-1449-46bf-99f5-a22363d5f842)
+
+Proof of Work (PoW) is one of the consensus mechanisms role in securing networks like Bitcoin. 
 
 ### Fundamentals of Proof of Work
 
-* **Concept**: In PoW, network participants (miners) compete to solve a complex mathematical problem that requires computational resources. The first to solve the problem gets the opportunity to add a new block of transactions to the blockchain and is rewarded.
+* **Concept**: Miners compete to solve a complex problem that requires computational resources. The first to solve the problem gets the opportunity to add a new block of transactions to the blockchain and is rewarded.
 
 * **Cryptographic Puzzle**: The core of PoW is a cryptographic puzzle, often a hash function, where miners must find a value (nonce) that, when hashed with the block data, produces a hash output that meets specific criteria (like a certain number of leading zeroes).
 Technical Mechanics of PoW
 
 * **The Puzzle**: The puzzle in PoW is designed to be difficult to solve but easy to verify. This typically involves performing a hash function repeatedly, altering the nonce each time, until the output meets the network's criteria.
 
-* **Difficulty Adjustment**: The difficulty of the puzzle can be adjusted. For instance, in Bitcoin, the difficulty adjusts every 2016 block to ensure that a new block is added approximately every 10 minutes, regardless of total computational power in the network.
+* **Difficulty Adjustment**: The difficulty of the puzzle can be adjusted. For instance, in Bitcoin, the difficulty adjusts every 2016 block to ensure that a new block is added approximately every 10 minutes, regardless of the total computational power in the network.
 
 * **Block Reward**: Miners are incentivized to participate in the process through block rewards, which include newly minted coins and transaction fees.
 
