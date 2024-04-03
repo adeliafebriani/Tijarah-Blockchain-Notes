@@ -20,7 +20,7 @@ Without it,
 
 4. **Network Synchronization**: Ensuring every participant has the same, up-to-date version of the ledger.
 
-### Consensus Mechanisms
+## Consensus Mechanisms
 
 Proof of Work (PoW)|Proof of Stake (PoS)|Delegated Proof of Stake (DPoS)|Proof of Authority (PoA)|Proof of Elapsed Time (PoET)
 :---:|:---:|:---:|:---:|:---:
@@ -29,7 +29,9 @@ Nodes (miners) solve complex mathematical puzzles to validate transactions and c
 The first to solve the puzzle gets the right to add the block to the blockchain and is rewarded.|More energy-efficient than PoW and offers faster transaction processing.|Offers scalability and efficiency but can be less decentralized.|Less decentralized, relying on the reputation of the validators.|Energy-efficient and suitable for permissioned blockchain networks.
 PoW is secure but energy-intensive and can lead to scalability issues.|Favor wealthier nodes with more significant stakes.|||
 
-### Istanbul Byzantine Fault Tolerance (IBFT)
+## Istanbul Byzantine Fault Tolerance (IBFT)
+![IBFT](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/e0a34003-832d-4dde-a0f5-13a97125414a)
+
 IBFT adapts the Byzantine Fault Tolerance (BFT) mechanism designed to work in Ethereum-based blockchain systems.
 
 #### How it works?
@@ -43,9 +45,10 @@ IBFT adapts the Byzantine Fault Tolerance (BFT) mechanism designed to work in Et
 * **Finality**: Once a block is confirmed, it cannot be changed or reversed, eliminating the possibility of forks.
 
 #### Advantages
-IBFT provides quick and final consensus with high fault tolerance. it's particularly suitable for permissioned or consortium blockchains where validators are known and trusted entities.
+* provides quick and final consensus with high fault tolerance.
+* suitable for permissioned or consortium blockchains where validators are known and trusted entities.
 
-### Practical Byzantine Fault Tolerance (PBFT)
+## Practical Byzantine Fault Tolerance (PBFT)
 PBFT was introduced to address the limitations of the traditional Byzantine Fault Tolerance in practical, real-world applications.
 
 #### How it Works?
@@ -57,7 +60,9 @@ PBFT was introduced to address the limitations of the traditional Byzantine Faul
 * **Fault Tolerance**: Like IBFT, PBFT can handle up to 1/3 of faulty nodes in the network.
 
 #### Advantages
-PBFT is efficient and offers a low-latency consensus mechanism without intensive computational requirements. It is ideal for networks where participants are partially trusted and a high transaction throughput is necessary.
+* efficient and offers a low-latency consensus mechanism without intensive computational requirements
+* ideal for networks where participants are partially trusted
+* a high transaction throughput is necessary
 
 #### Use Cases
 PBFT is commonly used in private or consortium blockchain networks, particularly where quick consensus and transaction finality are important.
