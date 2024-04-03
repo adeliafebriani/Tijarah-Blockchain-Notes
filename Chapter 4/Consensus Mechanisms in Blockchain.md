@@ -29,6 +29,15 @@ Nodes (miners) solve complex mathematical puzzles to validate transactions and c
 The first to solve the puzzle gets the right to add the block to the blockchain and is rewarded.|More energy-efficient than PoW and offers faster transaction processing.|Offers scalability and efficiency but can be less decentralized.|Less decentralized, relying on the reputation of the validators.|Energy-efficient and suitable for permissioned blockchain networks.
 PoW is secure but energy-intensive and can lead to scalability issues.|Favor wealthier nodes with more significant stakes.|||
 
+## Byzantine Fault Tolerance (BFT)
+
+BFT is a system property that can resist the cause of failure from Byzantine problems.
+> [!NOTE]
+> BFT will continue operating even when some of the node fails to communicate
+
+buy bitcoin-pow
+protocol-validation transaction
+
 ## Istanbul Byzantine Fault Tolerance (IBFT)
 ![IBFT](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/e0a34003-832d-4dde-a0f5-13a97125414a)
 
