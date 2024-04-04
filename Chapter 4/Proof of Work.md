@@ -1,7 +1,7 @@
 # Proof of Work
 ![pow](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/4336b1d8-1449-46bf-99f5-a22363d5f842)
 
-Proof of Work (PoW) is one of the consensus mechanisms role in securing networks like Bitcoin. 
+Proof of Work (PoW) is one of the consensus mechanisms role as proof of certain of work done in securing networks like Bitcoin. 
 
 ### Fundamentals of Proof of Work
 
@@ -16,6 +16,9 @@ Technical Mechanics of PoW
 
 * **Block Reward**: Miners are incentivized to participate in the process through block rewards, which include newly minted coins and transaction fees.
 
+* **POW Flow**:
+miners want to add a new block > verified transaction > competing nodes > won (calculation) > rewards > will add a new block in blockchain
+
 ### Security and Decentralization
 
 * **Network Security**: The computational effort required to solve the puzzle protects the network from attacks. To alter any block, an attacker would need to redo the work for that block and all subsequent blocks, which is practically infeasible due to the high computational cost.
@@ -29,3 +32,6 @@ Technical Mechanics of PoW
 * **Centralization of Mining Power**: There is a concern that large-scale mining operations with more resources could dominate the process, potentially centralizing control.
 
 * **Scalability**: PoW can lead to slower transaction processing times and higher fees, especially as the network grows.
+
+> [!NOTE]
+> the complexity depends on network size, active users, blockchain size
