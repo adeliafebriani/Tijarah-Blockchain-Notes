@@ -17,7 +17,8 @@ Technical Mechanics of PoW
 * **Block Reward**: Miners are incentivized to participate in the process through block rewards, which include newly minted coins and transaction fees.
 
 * **POW Flow**:
-miners want to add a new block > verified transaction > competing nodes > won (calculation) > rewards > will add a new block in blockchain
+![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/9c5eeba6-8ec4-4927-8c3e-30f94c14ca3f)
+miners want to add a new block > verified transaction > competing nodes > won (calculation) > winner gets rewards > miners will add a new block in blockchain
 
 ### Security and Decentralization
 
