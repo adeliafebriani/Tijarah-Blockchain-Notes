@@ -17,12 +17,12 @@ Technical Mechanics of PoW
 
 * **Block Reward**: Miners are incentivized to participate in the process through block rewards, which include newly minted coins and transaction fees.
 
-* **POW Flow**:
+* **Flow**:
 ![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/7ce9db31-f56e-4753-8e25-fd44b82c5915)
 ![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/506c1ff3-6253-431a-9e5e-15e3a375cf85)
 miners want to add a new block > verified transaction > competing nodes > won (calculation) > winner gets rewards > miners will add a new block in blockchain
 
-### POW Pros and Cons
+### Pros and Cons
 ![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/6632300b-887d-4c68-a6fc-993b471f52b9)
 
 ### Security and Decentralization
