@@ -1,9 +1,10 @@
 # Proof of Work
-![pow](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/4336b1d8-1449-46bf-99f5-a22363d5f842)
+![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/9c5eeba6-8ec4-4927-8c3e-30f94c14ca3f)
 
 Proof of Work (PoW) is one of the consensus mechanisms role as proof of certain of work done in securing networks like Bitcoin. 
 
 ### Fundamentals of Proof of Work
+![pow](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/4336b1d8-1449-46bf-99f5-a22363d5f842)
 
 * **Concept**: Miners compete to solve a complex problem that requires computational resources. The first to solve the problem gets the opportunity to add a new block of transactions to the blockchain and is rewarded.
 
@@ -17,8 +18,13 @@ Technical Mechanics of PoW
 * **Block Reward**: Miners are incentivized to participate in the process through block rewards, which include newly minted coins and transaction fees.
 
 * **POW Flow**:
-![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/9c5eeba6-8ec4-4927-8c3e-30f94c14ca3f)
+![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/7ce9db31-f56e-4753-8e25-fd44b82c5915)
+![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/506c1ff3-6253-431a-9e5e-15e3a375cf85)
+
 miners want to add a new block > verified transaction > competing nodes > won (calculation) > winner gets rewards > miners will add a new block in blockchain
+
+### POW Pros and Cons
+![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/6632300b-887d-4c68-a6fc-993b471f52b9)
 
 ### Security and Decentralization
 
@@ -36,3 +42,6 @@ miners want to add a new block > verified transaction > competing nodes > won (c
 
 > [!NOTE]
 > the complexity depends on network size, active users, blockchain size
+
+### Example
+![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/05b7e0bc-1a36-431c-bdec-8e3551a547ec)
