@@ -21,6 +21,7 @@ Without it,
 4. **Network Synchronization**: Ensuring every participant has the same, up-to-date version of the ledger.
 
 ## Consensus Mechanisms
+![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/65927bd3-c21f-471d-b73a-5349c1bbc72a)
 
 Proof of Work (PoW)|Proof of Stake (PoS)|Delegated Proof of Stake (DPoS)|Proof of Authority (PoA)|Proof of Elapsed Time (PoET)
 :---:|:---:|:---:|:---:|:---:
