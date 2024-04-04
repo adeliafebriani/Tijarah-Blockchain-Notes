@@ -1,7 +1,7 @@
 # Proof of Work
 ![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/9c5eeba6-8ec4-4927-8c3e-30f94c14ca3f)
 
-Proof of Work (PoW) is one of the consensus mechanisms role as proof of certain of work done in securing networks like Bitcoin. 
+Proof of Work (PoW) is one of the consensus mechanisms' role as proof of certain work done in securing networks like Bitcoin. 
 
 ### Fundamentals of Proof of Work
 ![pow](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/4336b1d8-1449-46bf-99f5-a22363d5f842)
