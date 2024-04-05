@@ -40,7 +40,11 @@ miners want to add a new block > verified transaction > competing nodes > won (c
 * **Scalability**: PoW can lead to slower transaction processing times and higher fees, especially as the network grows.
 
 > [!NOTE]
-> the complexity depends on network size, active users, blockchain size
+> * Introduced in 1993 to combat spam emails --> larger by Satoshi Nakamoto with Bitcoin in 2019.
+> * The PoW puzzle solved by miners and the first one to find the solution gets the miner reward.
+> * The higher the hash rate is, the higher the chance that get to create the next block and receive mining reward.
+> * To increase chances even further, miners have come together in 'mining pools'.
+> * **PoW is causing miners to use massive amount of electricity, encourages the use of mining pools which makes the blockchain more centralized as opposed to decentralized.**
 
 ### Example
 ![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/05b7e0bc-1a36-431c-bdec-8e3551a547ec)
