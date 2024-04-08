@@ -55,10 +55,10 @@ The PoA can be used in corporations that have high  logistical needs, but within
 
 Trade-Off|Proof of Authority (PoA)
 ---|---
-Decentralization vs. Efficiency	|Prioritizes efficiency over decentralization, with a limited number of trusted validators.
-Security vs. Speed	|Offers fast transaction finality, but security relies heavily on the integrity of trusted validators.
-Permissioned vs. Permissionless|	Typically permissioned, requiring participants to be granted permission to become validators or join the network.
-Resistance to Sybil Attacks	|Resistant to Sybil attacks due to known validators but susceptible to attacks or collusion by those validators.
+Decentralization vs. Efficiency|Prioritizes efficiency over decentralization, with a limited number of trusted validators.
+Security vs. Speed|Offers fast transaction finality, but security relies heavily on the integrity of trusted validators.
+Permissioned vs. Permissionless|Typically permissioned, requiring participants to be granted permission to become validators or join the network.
+Resistance to Sybil Attacks|Resistant to Sybil attacks due to known validators but susceptible to attacks or collusion by those validators.
 
 ### Conclusion
 
