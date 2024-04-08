@@ -51,6 +51,15 @@ This means that many believe PoA to be a consensus mechanism that aims to make c
 
 The PoA can be used in corporations that have high  logistical needs, but within the crypto community, it is very unlikely that it would be embraced in its current form.
 
+### Trade-offs
+
+Trade-Off|Proof of Authority (PoA)
+---|---
+Decentralization vs. Efficiency	|Prioritizes efficiency over decentralization, with a limited number of trusted validators.
+Security vs. Speed	|Offers fast transaction finality, but security relies heavily on the integrity of trusted validators.
+Permissioned vs. Permissionless|	Typically permissioned, requiring participants to be granted permission to become validators or join the network.
+Resistance to Sybil Attacks	|Resistant to Sybil attacks due to known validators but susceptible to attacks or collusion by those validators.
+
 ### Conclusion
 
 ![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/8ba68b97-c976-4394-8ffa-26d9f9206bf9)
