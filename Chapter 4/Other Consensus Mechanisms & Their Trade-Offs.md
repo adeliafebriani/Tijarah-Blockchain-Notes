@@ -3,7 +3,7 @@
 ## Proof of Authority (PoA)
 ![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/937c509b-d30b-420b-9cf7-8f2407f78716)
 
-Proof of Authority (PoA) represents a consensus  algorithm that is based on reputation, creating a practical and efficient solution for blockchain networks, especially when it comes to private ones.
+Proof of Authority (PoA) represents a consensus  algorithm based on reputation, creating a practical and efficient solution for blockchain networks, especially when it comes to private ones.
 
 ![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/c5910fd0-d666-4aab-8b13-1754bc947a66)
 
@@ -17,7 +17,7 @@ PoA uses a limited number of block validators,  which makes the system highly sc
 
 ### What Benefits Does Proof of Authority Have?
 
-Unlike PoW, and similar to PoS,  PoA doesn’t rely on solving puzzles in order to make sure that there is a continuous connection between nodes. PoA validator doesn’t require special equipment to help maintain the network. It is great for reducing  the amount of power used.
+Unlike PoW, and similar to PoS,  PoA doesn’t rely on solving puzzles to make sure that there is a continuous connection between nodes. PoA validator doesn’t require special equipment to help maintain the network. It is great for reducing  the amount of power used.
 
 PoA also enjoys a greater speed for validating transactions. Blocks are generated in a predictable sequence by taking into consideration the number of validators, which means that the blockchain will enjoy a higher transaction rate when compared to PoW or PoS.
 
@@ -64,7 +64,7 @@ Resistance to Sybil Attacks|Resistant to Sybil attacks due to known validators b
 
 ![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/8ba68b97-c976-4394-8ffa-26d9f9206bf9)
 
-Proof of Authority is a consensus mechanism that stands out for relying on a validator’s  reputation to make the blockchain work properly.
+Proof of Authority is a consensus mechanism that relies on a validator’s  reputation to make the blockchain work properly.
 
 While it’s a more environmentally friendly  method than PoW, and it is faster, the network will always be limited by  the small number of validators active, and by the fact that, by design, it can’t  be used in a decentralized manner - for now.
 
@@ -72,7 +72,7 @@ While it’s a more environmentally friendly  method than PoW, and it is faster,
 
 ![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/6feaad1d-5b00-4a19-8dfa-a3084149e4b9)
 
-Proof of Elapsed Time (PoET) is a consensus algorithm primarily designed for permissioned blockchains and is developed by Intel and is based on the Trusted Execution Environments (TEEs) provided by Intel's Software Guard Extensions (SGX) technology.
+Proof of Elapsed Time (PoET) is a consensus algorithm primarily designed for permissioned blockchains and is developed by Intel. It is based on the Trusted Execution Environments (TEEs) provided by Intel's Software Guard Extensions (SGX) technology.
 
 In PoET, nodes compete to generate a random wait time, and the node that  completes the wait time first is chosen to create the next block. To ensure that nodes don't cheat by generating shorter wait times, PoET uses special hardware called trusted execution environments (or TEEs) that create a random wait time and protect it from manipulation.
 
@@ -80,7 +80,7 @@ PoET is a more efficient and environmentally friendly consensus algorithm than t
 
 ### Key Principle
 
-The key principle behind PoET is that it leverages the security guarantees provided by SGX enclaves to ensure fairness and randomness in the selection of block creators. Since the wait time is generated within the enclave and cannot be tampered with, PoET helps to prevent centralization and manipulation in blockchain networks.
+The key principle behind PoET is that it leverages the security guarantees provided by SGX enclaves to ensure fairness and randomness in selecting block creators. Since the wait time is generated within the enclave and cannot be tampered with, PoET helps to prevent centralization and manipulation in blockchain networks.
 
 PoET has been used in various blockchain platforms, including Hyperledger Sawtooth and some enterprise blockchain solutions. However, it's worth noting that PoET has also faced criticisms, particularly regarding its reliance on SGX technology and concerns about the centralization of trusted sources providing wait times.
 
@@ -89,7 +89,7 @@ PoET has been used in various blockchain platforms, including Hyperledger Sawtoo
 Feature|Proof of Work (PoW)|Proof of Elapsed Time (PoET)
 ---|---|---
 Consensus Mechanism|Requires miners to solve complex puzzles.|Participants request a wait time from a trusted source.
-Selection Process|	Competitive: Miner who solves puzzle first wins.|	Lottery-based: Participant with shortest wait time wins.
+Selection Process|	Competitive: The miner who solves the puzzle first wins.|	Lottery-based: The participant with the shortest wait time wins.
 Resource Intensive|	Requires significant computational power and energy.|	Less resource-intensive as it doesn't involve mining.
 Security|	Provides strong security through computational puzzles.|	Relies on trusted execution environments for security.
 Energy Efficiency|	Known for its high energy consumption.|	More energy-efficient as it doesn't involve continuous mining.
