@@ -15,6 +15,17 @@ PoW = Miners vs PoS = Validators
 ### Differences between PoW vs PoA
 ![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/b8dd5579-9dfb-4ad9-adce-c691104eaaef)
 
+### Difference Between PoW and PoET
+
+Feature|Proof of Work (PoW)|Proof of Elapsed Time (PoET)
+---|---|---
+Consensus Mechanism|Requires miners to solve complex puzzles.|Participants request a wait time from a trusted source.
+Selection Process|	Competitive: The miner who solves the puzzle first wins.|	Lottery-based: The participant with the shortest wait time wins.
+Resource Intensive|	Requires significant computational power and energy.|	Less resource-intensive as it doesn't involve mining.
+Security|	Provides strong security through computational puzzles.|	Relies on trusted execution environments for security.
+Energy Efficiency|	Known for its high energy consumption.|	More energy-efficient as it doesn't involve continuous mining.
+Example|	Bitcoin, Ethereum (currently transitioning to PoS).|	Hyperledger Sawtooth.
+
 ### Differences between PoA vs PoS
 ![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/ab5c7952-7325-4a06-b576-c3158239427e)
 
