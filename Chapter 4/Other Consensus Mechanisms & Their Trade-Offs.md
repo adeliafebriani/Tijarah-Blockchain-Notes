@@ -83,14 +83,3 @@ PoET is a more efficient and environmentally friendly consensus algorithm than t
 The key principle behind PoET is that it leverages the security guarantees provided by SGX enclaves to ensure fairness and randomness in selecting block creators. Since the wait time is generated within the enclave and cannot be tampered with, PoET helps to prevent centralization and manipulation in blockchain networks.
 
 PoET has been used in various blockchain platforms, including Hyperledger Sawtooth and some enterprise blockchain solutions. However, it's worth noting that PoET has also faced criticisms, particularly regarding its reliance on SGX technology and concerns about the centralization of trusted sources providing wait times.
-
-### Difference Between PoW and PoET
-
-Feature|Proof of Work (PoW)|Proof of Elapsed Time (PoET)
----|---|---
-Consensus Mechanism|Requires miners to solve complex puzzles.|Participants request a wait time from a trusted source.
-Selection Process|	Competitive: The miner who solves the puzzle first wins.|	Lottery-based: The participant with the shortest wait time wins.
-Resource Intensive|	Requires significant computational power and energy.|	Less resource-intensive as it doesn't involve mining.
-Security|	Provides strong security through computational puzzles.|	Relies on trusted execution environments for security.
-Energy Efficiency|	Known for its high energy consumption.|	More energy-efficient as it doesn't involve continuous mining.
-Example|	Bitcoin, Ethereum (currently transitioning to PoS).|	Hyperledger Sawtooth.
