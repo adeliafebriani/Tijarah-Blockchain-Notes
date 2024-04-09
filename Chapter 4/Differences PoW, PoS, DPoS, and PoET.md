@@ -12,6 +12,13 @@ Suitability|Suitable for public blockchains, particularly in early-stage network
 PoW = Miners vs PoS = Validators
 ![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/e4d703b3-aabb-4c85-90bd-65bcfa33eb38)
 
+### Differences between PoW vs PoA
+![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/b8dd5579-9dfb-4ad9-adce-c691104eaaef)
+
+### Differences between PoA vs PoS
+![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/ab5c7952-7325-4a06-b576-c3158239427e)
+
+
 PoW's node stakes are more expensive vs. approved or work-based.
 ![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/b263100d-f753-47e6-932e-a09adb220f32)
 
