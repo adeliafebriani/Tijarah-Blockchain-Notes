@@ -38,14 +38,3 @@ Advantages | Challenges
 **Energy Efficiency**: PoS is far more energy-efficient than PoW, eliminating the need for intensive computational work | **Nothing at Stake Problem**: PoS systems may face unique security challenges like the "nothing at stake" problem, where validators might have incentives to validate multiple blockchain histories, potentially leading to network instability.
 **Reduced Centralization Risk**: The PoS mechanism can mitigate the risk of centralization seen in PoW, where miners with significant computational power can dominate the process. | **Initial Distribution**: The initial distribution of coins can affect network security. If a few participants hold large amounts of the currency, it could centralize control.
 
-### PoW vs PoS
-
-PoW = Miners vs PoS = Validators
-![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/e4d703b3-aabb-4c85-90bd-65bcfa33eb38)
-
-PoW's node stakes are more expensive vs. approved or work-based.
-![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/b263100d-f753-47e6-932e-a09adb220f32)
-
-### Difference between PoW vs PoS
-![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/09a1c4bb-0e88-4546-b89e-75c9ffebd6ec)
-
