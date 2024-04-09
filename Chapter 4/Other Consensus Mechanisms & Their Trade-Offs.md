@@ -60,6 +60,12 @@ Security vs. Speed|Offers fast transaction finality, but security relies heavily
 Permissioned vs. Permissionless|Typically permissioned, requiring participants to be granted permission to become validators or join the network.
 Resistance to Sybil Attacks|Resistant to Sybil attacks due to known validators but susceptible to attacks or collusion by those validators.
 
+### Differences between PoW vs PoA
+![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/b8dd5579-9dfb-4ad9-adce-c691104eaaef)
+
+### Differences between PoA vs PoS
+![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/ab5c7952-7325-4a06-b576-c3158239427e)
+
 ### Conclusion
 
 ![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/8ba68b97-c976-4394-8ffa-26d9f9206bf9)
@@ -84,7 +90,7 @@ The key principle behind PoET is that it leverages the security guarantees provi
 
 PoET has been used in various blockchain platforms, including Hyperledger Sawtooth and some enterprise blockchain solutions. However, it's worth noting that PoET has also faced criticisms, particularly regarding its reliance on SGX technology and concerns about the centralization of trusted sources providing wait times.
 
-### Difference Between Proof of Work and Proof of Elapsed Time
+### Difference Between PoW and PoET
 
 Feature|Proof of Work (PoW)|Proof of Elapsed Time (PoET)
 ---|---|---
