@@ -45,3 +45,7 @@ PoW = Miners vs PoS = Validators
 
 PoW's node stakes are more expensive vs. approved or work-based.
 ![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/b263100d-f753-47e6-932e-a09adb220f32)
+
+### Difference between PoW vs PoS
+![image](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/09a1c4bb-0e88-4546-b89e-75c9ffebd6ec)
+
