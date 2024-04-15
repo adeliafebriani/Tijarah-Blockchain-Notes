@@ -1,4 +1,4 @@
-# Blockchain vulnerabilities and attacks
+# Blockchain Vulnerabilities and Attacks
 
 ### Attacks
 
