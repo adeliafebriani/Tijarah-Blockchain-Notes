@@ -19,6 +19,8 @@ Data Minimization: Data minimization involves collecting and retaining only the 
 
 Access Controls: Implementing access controls ensures that only authorized individuals have access to personal data. This includes user authentication, role-based access control, and encryption of data at rest and in transit.
 
+![Privacy-by-Design](https://github.com/adeliafebriani/Tijarah-Blockchain-Notes/assets/162258265/f0b85685-bc94-4872-bdda-67a51537789a)
+
 Privacy by design: Privacy by design is an approach to system and product development that prioritizes privacy and data protection from the outset. It involves incorporating privacy-enhancing features and practices into the design and development process.
 
 User Consent and Transparency: Providing clear information to users about data collection, processing, and sharing practices, and obtaining their informed consent is essential for respecting individuals' privacy rights.
